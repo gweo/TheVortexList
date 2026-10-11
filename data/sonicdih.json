@@ -1,0 +1,30 @@
+{
+    "id": 147056107,
+    "name": "sonic dih",
+    "author": "bleepboopbop",
+    "creators": ["bleepboopbop"],
+    "verifier": "Lemon",
+    "verification": "https://youtu.be/bT2VcriJ9-8?si=CKaD_aSF_LguKUu1",
+    "percentToQualify": 65,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MrBazooka",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": "???"
+        },
+        {
+            "user": "JestyyCat",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": "???"
+        },
+        {
+            "user": "Mizi",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": "???"
+        },
+    ]
+}
