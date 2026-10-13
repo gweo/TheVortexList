@@ -1,8 +1,15 @@
-header, .nav {
+/* 1. This handles the white background across the entire top area */
+header {
     background-color: #ffffff !important;
+}
+
+/* 2. This keeps the menu items lined up perfectly in a row */
+.nav {
+    display: flex;
     column-gap: 2rem;
     background-color: #ffffff;
 }
+
 .nav .nav__tab {
     padding-top: 4px;
     border-bottom: 4px solid transparent;
