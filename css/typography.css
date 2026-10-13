@@ -51,7 +51,7 @@ h2::after,
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -75,7 +75,7 @@ h3::after,
 h4,
 .type-h4,
 .type-title-lg {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -100,7 +100,7 @@ h4::after,
 h5,
 .type-h5,
 .type-title-md {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 20px;
     line-height: 26px;
     font-weight: 700;
@@ -126,7 +126,7 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 17.1428571429px;
     line-height: 24px;
     font-weight: 700;
