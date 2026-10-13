@@ -111,3 +111,9 @@ main,
 .list-item * {
     color: #ffffff !important;
 }
+/* Forces all links and level titles in the sidebar to turn white */
+a, 
+.list-item a, 
+.list-item-target {
+    color: #ffffff !important;
+}
