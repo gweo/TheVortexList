@@ -1,6 +1,7 @@
 .nav {
     display: flex;
     column-gap: 2rem;
+    background-color: #ffffff;
 }
 .nav .nav__tab {
     padding-top: 4px;
