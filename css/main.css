@@ -101,11 +101,13 @@ input[type="checkbox"] {
     color: #ffffff !important;
 }
 
-/* Forces all the text inside the purple layout area to turn white */
+/* Forces all the text inside the purple layout area AND the left level names to turn white */
 main, 
 .list-container, 
 .panel, 
 .level-meta,
-.level-meta * {
+.level-meta *,
+.list-item,
+.list-item * {
     color: #ffffff !important;
 }
