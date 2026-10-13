@@ -1,5 +1,5 @@
-.nav {
-    display: flex;
+header, .nav {
+    background-color: #ffffff !important;
     column-gap: 2rem;
     background-color: #ffffff;
 }
