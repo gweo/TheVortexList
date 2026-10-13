@@ -1,14 +1,16 @@
-/* 1. This handles the white background across the entire top area */
+/* 1. This handles the black background across the entire top area */
 header {
-    background-color: #ffffff !important;
+    background-color: #1c1c1c !important;
 }
 
-/* 2. This keeps the menu items lined up perfectly in a row */
+/* 2. This keeps the menu items lined up perfectly in a row with white text */
 .nav {
     display: flex;
     column-gap: 2rem;
-    background-color: #ffffff;
+    background-color: #1c1c1c;
+    color: #ffffff;
 }
+
 
 .nav .nav__tab {
     padding-top: 4px;
