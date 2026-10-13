@@ -154,7 +154,7 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
     font-weight: 500;
@@ -172,7 +172,7 @@ input[type="number"],
 }
 
 .type-label-md {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 14.2857142857px;
     line-height: 18px;
     font-weight: 500;
@@ -190,7 +190,7 @@ input[type="number"],
 }
 
 .type-label-sm {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
     font-weight: 500;
@@ -209,7 +209,7 @@ input[type="number"],
 
 p,
 .type-body {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 17.1428571429px;
     line-height: 28px;
     font-weight: 500;
