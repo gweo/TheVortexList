@@ -94,3 +94,18 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+/* Forces the navbar title and version to turn white */
+.nav__logo, 
+.nav__version,
+.nav__logo a {
+    color: #ffffff !important;
+}
+
+/* Forces all the text inside the purple layout area to turn white */
+main, 
+.list-container, 
+.panel, 
+.level-meta,
+.level-meta * {
+    color: #ffffff !important;
+}
