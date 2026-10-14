@@ -69,4 +69,11 @@ header span,
 .nav__version {
     color: #ffffff !important;
 }
+/* Specifically forces only the main header title and version text to be white */
+.nav__logo, 
+.nav__logo a,
+.nav__logo span,
+.nav__version {
+    color: #ffffff !important;
+}
 
